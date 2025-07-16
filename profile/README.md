@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://i.ibb.co/Qjf1Hm1K/ISAQ-DISCORD-BANNER-FINAL.gif">
+  <img width="612" height="240" src="https://raw.githubusercontent.com/Project-IsaQ/.github/refs/heads/main/profile/ISAQ_DISCORD_BANNER_FINAL.gif">
 </p>
 
 ## 👋 About us
