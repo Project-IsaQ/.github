@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="612" height="240" src="https://i.imgur.com/GHFShCv.png">
+  <img width="612" height="240" src="https://raw.githubusercontent.com/Project-IsaQ/.github/refs/heads/main/profile/ISAQ_DISCORD_BANNER_FINAL.gif">
 </p>
 
 ## 👋 About us
-QBCore is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
+ISAQ is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
 
 ## 📚 Documentation
 https://docs.qbcore.org/
